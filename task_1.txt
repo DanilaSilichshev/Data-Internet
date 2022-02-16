@@ -1,0 +1,5 @@
+C:\Python39\python.exe "D:/Mi/Dela/Geek/Курсы/Методы сбора и обработки данных из сети Интернет/hometasks/task_1/task_1.py"
+Введите ключ API: ***********
+Количество найденных статей в газете The New York Times по теме 'education', связанной с 'discrimination' = 13056
+
+Process finished with exit code 0
