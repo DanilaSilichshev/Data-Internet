@@ -6,7 +6,6 @@ from parse_info import handle_link
 from pymongo import MongoClient
 from pymongo.errors import *
 
-# from mongoDB_functions import check_and_create
 
 client = MongoClient("localhost", 27017)
 url = "https://news.mail.ru"
